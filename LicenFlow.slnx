@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="../Bissness/Bissness.csproj" Id="6dd124fd-f2f9-4e9c-a81f-d20aad2b08d5" />
+  <Project Path="../DataAccess/DataAccess.csproj" Id="c85ff0d6-3f53-4ff1-9362-f8e6f5e0049a" />
+  <Project Path="DVLD_DB/DVLD_DB.sqlproj" Id="30786705-c332-4b1c-9d82-777708e9347a">
+    <Build />
+    <Deploy />
+  </Project>
+  <Project Path="firstTrying.csproj" Id="7988c222-5c5b-411c-b208-01105e1d2b6f" />
+</Solution>
