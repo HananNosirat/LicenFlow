@@ -62,3 +62,11 @@ The system utilizes a robust relational database schema carefully mapped out to 
 1. **Clone the repository:**
 ```bash
    git clone [https://github.com/HananNosirat/LicenFlow.git](https://github.com/HananNosirat/LicenFlow.git)
+
+2.Open the solution file LicenFlow.sln using Visual Studio.
+
+3.Restore the SQL Server database using the backup or scripts found in the DVLD_DB folder.
+
+4.Update the connection string inside the App.config file to match your local SQL Server instance.
+
+5.Build and Run the application.
